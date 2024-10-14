@@ -1,0 +1,3 @@
+INFO:root:Creating Config from file: ./gentpool/pool/book_agent/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/book_agent/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/book_agent/agent.yaml
